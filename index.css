@@ -1,0 +1,16 @@
+* {
+  text-align: center;
+  background-color: #04203d;
+  color: #ffd35a;
+}
+body {
+  font-family: "Russo One", sans-serif;
+  font-size: 30px;
+}
+#inputone {
+  color: red;
+}
+#sub {
+  text-decoration: line-through;
+  color: chartreuse;
+}
